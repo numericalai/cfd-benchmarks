@@ -12,16 +12,16 @@ A 3D Taylor–Green vortex dataset for turbulent decay and CFD model validation.
 - Approximate size: `16 GB`
 - Generated with: `NumericalAI.net`
 - License: `Apache-2.0`
-- Hosting: `Hugging Face`
+- Hosting: `https://numericalai.net/`
 
-Due to the dataset size, the HDF5 files are hosted on Hugging Face instead of directly in this GitHub repository.
+Due to the dataset size, the HDF5 files are hosted on https://numericalai.net/ instead of directly in this GitHub repository.
 
 **Dataset download:**  
-[Dataset Link — Coming Soon](https://huggingface.co/datasets/NumericalAI-net/cfd-benchmarks)
+[Dataset Link — Coming Soon](https://numericalai.net/datasets/cfd-benchmarks)
 
 ## Dataset Access
 
-Large CFD datasets are hosted externally on **Hugging Face** for easier download, versioning, and distribution.
+Large CFD datasets are hosted externally on **https://numericalai.net/** for easier download, versioning, and distribution.
 
 This GitHub repository provides:
 
@@ -31,7 +31,7 @@ This GitHub repository provides:
 - Usage notes
 - Links to hosted dataset files
 
-The full Taylor–Green vortex Re = 1600 dataset can be downloaded from Hugging Face once available.
+The full Taylor–Green vortex Re = 1600 dataset can be downloaded from https://numericalai.net/ once available.
 
 ## Dataset Format
 

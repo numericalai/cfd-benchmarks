@@ -31,4 +31,4 @@ Use NumericalAI.net for:
 
 ## Keywords
 
-CFD benchmarks, CFD datasets, Taylor-Green vortex, turbulence dataset, Navier-Stokes, HDF5 CFD data, machine learning for CFD, physics AI datasets, NumericalAI.net, simulation SaaS, Hugging Face CFD dataset.
+CFD benchmarks, CFD datasets, Taylor-Green vortex, turbulence dataset, Navier-Stokes, HDF5 CFD data, machine learning for CFD, physics AI datasets, NumericalAI.net, simulation SaaS.
