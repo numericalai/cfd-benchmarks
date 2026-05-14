@@ -46,6 +46,4 @@ Large datasets may be hosted externally due to GitHub file size limits.
 
 ## License
 
-Only CFD datasets released in this repository are licensed under the **Apache License 2.0**.
-
-See the `LICENSE` file for details.
+The Taylor–Green vortex dataset released here is licensed under the Apache License 2.0.
