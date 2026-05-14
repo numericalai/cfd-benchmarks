@@ -17,7 +17,7 @@ A 3D Taylor–Green vortex dataset for turbulent decay and CFD model validation.
 Due to the dataset size, the HDF5 files are hosted on Hugging Face instead of directly in this GitHub repository.
 
 **Dataset download:**  
-[Hugging Face Dataset Link — Coming Soon](https://huggingface.co/datasets/NumericalAI-net/cfd-benchmarks)
+[Dataset Link — Coming Soon](https://huggingface.co/datasets/NumericalAI-net/cfd-benchmarks)
 
 ## Dataset Access
 
